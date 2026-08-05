@@ -144,4 +144,4 @@ financial-bankruptcy-prediction/
 **Mustakim Ansari**
 
 - LinkedIn: https://www.linkedin.com/in/mustakim-ansari/
-- GitHub: https://github.com/mustakim-1234
+- GitHub: https://github.com/mustakim-ansari
